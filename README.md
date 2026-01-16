@@ -33,7 +33,7 @@ An immersive 3D scene developed in C++ using OpenGL 4.1. This project simulates 
 - Visual Studio 2019 or newer (for Windows).
 - Updated graphics drivers.
 
-## Audio Setup
+### Audio Setup
 The project uses the **irrKlang** audio engine. Due to GitHub's file size restrictions (files over 100MB), the high-quality `.wav` background track is excluded from the repository via `.gitignore`.
 
 **To enable sound in your local build:**
