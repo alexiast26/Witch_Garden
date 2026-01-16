@@ -1,0 +1,13 @@
+# Blender 4.5.4 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl Wooden_Stuff.001
+Ns 63.117920
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/WoodStuff.png
+map_d C:/Users/Alexia/Desktop/Facultate/PG/proiect/C:/Users/Alexia/Desktop/Facultate/PG/ProiectPG/models/main_scene/textures/Wood Stuff.png
+map_Bump -bm 1.000000 textures/Wood Stuff NM.png

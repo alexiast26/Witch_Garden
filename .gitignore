@@ -416,3 +416,16 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+!**/models/
+!**/textures/
+!**/shaders/
+!**/sounds/
+
+!*.dll
+
+!bin/models/
+!bin/textures/
+!bin/shaders/
+
+audio/background.wav
